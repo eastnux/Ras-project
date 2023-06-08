@@ -12,6 +12,7 @@
 ## 완성 작품
 
 ### 작품 회로도
+![image](https://github.com/eastnux/Rasp-project/assets/131341115/d8cf78b1-4edf-4da1-a9fe-f17dde306175)
 
 ### 작품 사진
 ![20230608_144522](https://github.com/eastnux/Rasp-project/assets/131341115/d98151fb-85d2-4960-a0fb-8e96f7a0c4f9)
